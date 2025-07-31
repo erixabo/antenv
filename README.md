@@ -59,6 +59,6 @@ MIT
 
 ## Készítette
 
-Géptárs & [Te](https://github.com/yourusername)  
+Géptárs & [Te](https://github.com/erixabo)  
 📡 Rádiós jövőképek – mérések, ábrák, iránytű a hullámok világában.
 
